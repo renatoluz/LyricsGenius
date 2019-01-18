@@ -1,3 +1,7 @@
 # Exemplos Seções
  - Intro
- - Resources
+ - Resources / Installation
+ - Sample of Using
+ - How to Contribute
+ - Issues
+ - License
